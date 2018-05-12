@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://ethereumsocial.kr/</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ethereumsocial.kr/#about</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://ethereumsocial.kr/#exchanges</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://ethereumsocial.kr/#wallets</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://ethereumsocial.kr/#mining</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://download.ethereumsocial.kr</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>0.9</priority>
+</url>
+<url>
+  <loc>https://blog.ethereumsocial.kr</loc>
+  <lastmod>2018-05-12T03:20:06+00:00</lastmod>
+  <priority>0.9</priority>
+</url>
+</urlset>
